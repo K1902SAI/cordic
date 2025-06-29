@@ -83,9 +83,9 @@ for i in range (x_ln.size-1):
 
 #plot_values(x1,data1,ycos,"cos(x)")
 #plot_values(x1,data2,ysin,"sin(x)")
-plot_values(xh[0:600],data3[0:600],ycosh[0:600],"cosh(x)")
-plot_values(xh[0:600],data4[0:600],ysinh[0:600],"sinh(x)")
-#plot_values(xh,data7,ye_x,"e^(x)")
+#plot_values(xh[0:600],data3[0:600],ycosh[0:600],"cosh(x)")
+#plot_values(xh[0:600],data4[0:600],ysinh[0:600],"sinh(x)")
+plot_values(xh[0:600],data7[0:600],ye_x[0:600],"e^(x)")
 #plot_values(xatan,data5,x,"atan(x)")
 #plot_values(xatanh,data6,yatanh[0:999],"atanh(x)")
 #plot_values(x_ln[0:899],data8,ylnx[0:899],"ln(x)")
